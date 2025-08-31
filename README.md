@@ -49,7 +49,4 @@ A modern note-taking application built with the MERN stack (MongoDB, Express, Re
     ```
 4.  Start the development client: `npm run dev`
 
-## Live URL
 
--   **Frontend:** [Your Deployed Frontend URL]
--   **Backend API:** [Your Deployed Backend URL]
